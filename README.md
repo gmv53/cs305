@@ -5,3 +5,6 @@ This project is an easy I/O program that will prompt the use the for a sentence 
 
 LICENSE INFO: 
 This project uses a GNU General Public License v3.0.
+
+Ayla's Contribution:
+Write sudo code to use as a guidline for the program. 
